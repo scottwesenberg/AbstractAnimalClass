@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\refint\AbstractAnimalClass.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net6.0\ref\AbstractAnimalClass.dll
